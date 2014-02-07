@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShakeToUnlockScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_shake_to_unlock">Enable \"shake to unlock\"</string>
+	<string name="disable_shake_to_unlock">Disable \"shake to unlock\"</string>
+</resources>
